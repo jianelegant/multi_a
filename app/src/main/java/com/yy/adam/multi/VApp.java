@@ -4,6 +4,7 @@ import android.content.Context;
 import android.content.SharedPreferences;
 import android.support.multidex.MultiDexApplication;
 
+import com.flurry.android.FlurryAgent;
 import com.lody.virtual.client.core.VirtualCore;
 import com.lody.virtual.client.stub.VASettings;
 
@@ -48,7 +49,9 @@ public class VApp extends MultiDexApplication {
             @Override
             public void onMainProcess() {
                 Once.initialise(VApp.this);
-                // TODO flurry
+                new FlurryAgent.Builder()
+                        .withLogEnabled(true)
+                        .build(VApp.this, "BFBPFK9YQNZRDGR9VXY7");
             }
 
             @Override
