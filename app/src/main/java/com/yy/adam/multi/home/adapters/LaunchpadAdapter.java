@@ -10,7 +10,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.VUiKit;
 import com.yy.adam.multi.home.models.AppData;
 import com.yy.adam.multi.home.models.MultiplePackageAppData;

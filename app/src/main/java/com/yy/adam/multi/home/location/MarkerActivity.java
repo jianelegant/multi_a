@@ -34,8 +34,8 @@ import com.tencent.tencentmap.mapsdk.map.CameraUpdateFactory;
 import com.tencent.tencentmap.mapsdk.map.MapView;
 import com.tencent.tencentmap.mapsdk.map.TencentMap;
 
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.VActivity;
-import io.virtualapp.R;
 
 public class MarkerActivity extends VActivity implements TencentMap.OnMapClickListener, TencentLocationListener {
     private TencentMap mMap;

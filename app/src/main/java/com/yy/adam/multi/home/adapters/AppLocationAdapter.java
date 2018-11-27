@@ -7,7 +7,7 @@ import android.widget.Button;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.BaseAdapterPlus;
 import com.yy.adam.multi.home.models.LocationData;
 

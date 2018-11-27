@@ -12,7 +12,7 @@ import com.lody.virtual.client.ipc.VActivityManager;
 
 import java.util.Locale;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.VActivity;
 import com.yy.adam.multi.abs.ui.VUiKit;
 import com.yy.adam.multi.home.models.PackageAppData;

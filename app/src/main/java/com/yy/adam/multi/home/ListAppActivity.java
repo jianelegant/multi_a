@@ -16,7 +16,7 @@ import android.support.v7.app.ActionBar;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.VCommends;
 import com.yy.adam.multi.abs.ui.VActivity;
 import com.yy.adam.multi.home.adapters.AppPagerAdapter;

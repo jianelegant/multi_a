@@ -18,7 +18,7 @@ import com.lody.virtual.remote.vloc.VLocation;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.VActivity;
 import com.yy.adam.multi.abs.ui.VUiKit;
 import com.yy.adam.multi.home.adapters.AppLocationAdapter;

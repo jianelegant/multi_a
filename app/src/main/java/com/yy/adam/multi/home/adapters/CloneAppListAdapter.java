@@ -11,7 +11,7 @@ import android.widget.TextView;
 
 import java.util.List;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.abs.ui.VUiKit;
 import com.yy.adam.multi.home.models.AppInfo;
 import com.yy.adam.multi.widgets.DragSelectRecyclerViewAdapter;

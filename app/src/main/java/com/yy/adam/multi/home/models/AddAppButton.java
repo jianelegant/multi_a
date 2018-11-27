@@ -3,7 +3,7 @@ package com.yy.adam.multi.home.models;
 import android.content.Context;
 import android.graphics.drawable.Drawable;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 
 /**
  * @author Lody

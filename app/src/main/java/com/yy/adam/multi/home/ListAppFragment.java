@@ -18,7 +18,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Locale;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.VCommends;
 import com.yy.adam.multi.abs.ui.VFragment;
 import com.yy.adam.multi.abs.ui.VUiKit;

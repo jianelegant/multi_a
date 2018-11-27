@@ -33,7 +33,7 @@ import java.lang.reflect.Method;
 import java.util.ArrayList;
 import java.util.List;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 import com.yy.adam.multi.VCommends;
 import com.yy.adam.multi.abs.nestedadapter.SmartRecyclerAdapter;
 import com.yy.adam.multi.abs.ui.VActivity;

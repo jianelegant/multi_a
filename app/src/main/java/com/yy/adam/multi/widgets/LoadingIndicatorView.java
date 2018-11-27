@@ -15,7 +15,7 @@ import android.util.Log;
 import android.view.View;
 import android.view.animation.AnimationUtils;
 
-import io.virtualapp.R;
+import com.yy.adam.multi.R;
 
 public class LoadingIndicatorView extends View {
 
