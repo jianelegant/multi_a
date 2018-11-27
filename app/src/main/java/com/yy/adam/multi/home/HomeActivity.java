@@ -24,6 +24,9 @@ import android.view.ViewGroup;
 import android.widget.TextView;
 import android.widget.Toast;
 
+import com.google.android.gms.ads.AdListener;
+import com.google.android.gms.ads.AdRequest;
+import com.google.android.gms.ads.InterstitialAd;
 import com.lody.virtual.GmsSupport;
 import com.lody.virtual.client.stub.ChooseTypeAndAccountActivity;
 import com.lody.virtual.os.VUserInfo;
@@ -77,6 +80,7 @@ public class HomeActivity extends VActivity implements HomeContract.HomeView {
     private LaunchpadAdapter mLaunchpadAdapter;
     private Handler mUiHandler;
 
+    private InterstitialAd mInterstitialAd;
 
     public static void goHome(Context context) {
         Intent intent = new Intent(context, HomeActivity.class);
@@ -95,6 +99,19 @@ public class HomeActivity extends VActivity implements HomeContract.HomeView {
         initLaunchpad();
         initMenu();
         new HomePresenterImpl(this).start();
+
+        mInterstitialAd = new InterstitialAd(this);
+        mInterstitialAd.setAdUnitId("ca-app-pub-5644941632262899/5307114539");
+        mInterstitialAd.loadAd(new AdRequest.Builder().build());
+        mInterstitialAd.setAdListener(new AdListener() {
+            @Override
+            public void onAdLoaded() {
+                super.onAdLoaded();
+                if(null != mInterstitialAd) {
+                    mInterstitialAd.show();
+                }
+            }
+        });
     }
 
     private void initMenu() {
