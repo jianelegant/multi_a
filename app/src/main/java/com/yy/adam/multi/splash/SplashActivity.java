@@ -32,7 +32,7 @@ public class SplashActivity extends VActivity {
             time = System.currentTimeMillis() - time;
             long delta = 3000L - time;
             if (delta > 0) {
-                VUiKit.sleep(delta);
+//                VUiKit.sleep(delta);
             }
         }).done((res) -> {
             HomeActivity.goHome(this);

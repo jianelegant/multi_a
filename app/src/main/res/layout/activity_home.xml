@@ -35,7 +35,7 @@
                 android:layout_height="match_parent"
                 android:gravity="center|end"
                 android:orientation="horizontal"
-                android:visibility="visible">
+                android:visibility="gone">
 
                 <com.yy.adam.multi.widgets.MaterialRippleLayout
                     android:layout_width="60dp"
