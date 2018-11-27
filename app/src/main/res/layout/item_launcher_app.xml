@@ -6,7 +6,7 @@
     android:gravity="center"
     app:cardElevation="10dp">
 
-    <io.virtualapp.widgets.LabelView
+    <com.yy.adam.multi.widgets.LabelView
         xmlns:lv="http://schemas.android.com/apk/res-auto"
         android:id="@+id/item_app_space_idx"
         android:layout_width="wrap_content"
@@ -28,7 +28,7 @@
         android:paddingRight="20dp"
         android:paddingTop="35dp">
 
-        <io.virtualapp.widgets.LauncherIconView
+        <com.yy.adam.multi.widgets.LauncherIconView
             android:id="@+id/item_app_icon"
             android:layout_width="45dp"
             android:layout_height="45dp"
@@ -39,7 +39,7 @@
             app:pi_stroke="6dp" />
 
 
-        <io.virtualapp.widgets.MarqueeTextView
+        <com.yy.adam.multi.widgets.MarqueeTextView
             android:id="@+id/item_app_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"

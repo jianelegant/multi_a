@@ -6,7 +6,7 @@
     android:layout_height="match_parent">
 
 
-    <io.virtualapp.widgets.DragSelectRecyclerView
+    <com.yy.adam.multi.widgets.DragSelectRecyclerView
         android:id="@+id/select_app_recycler_view"
         android:layout_width="match_parent"
         android:layout_height="match_parent"

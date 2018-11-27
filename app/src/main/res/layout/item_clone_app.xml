@@ -11,7 +11,7 @@
         android:layout_gravity="top|end"
         android:src="@drawable/ic_no_check" />
 
-    <io.virtualapp.widgets.LabelView xmlns:lv="http://schemas.android.com/apk/res-auto"
+    <com.yy.adam.multi.widgets.LabelView xmlns:lv="http://schemas.android.com/apk/res-auto"
         android:id="@+id/item_app_clone_count"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
@@ -41,7 +41,7 @@
             android:layout_height="60dp"
             android:layout_marginBottom="12dp" />
 
-        <io.virtualapp.widgets.MarqueeTextView
+        <com.yy.adam.multi.widgets.MarqueeTextView
             android:id="@+id/item_app_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
