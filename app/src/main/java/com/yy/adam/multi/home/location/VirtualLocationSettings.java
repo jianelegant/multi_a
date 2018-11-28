@@ -9,11 +9,11 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ListView;
 
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.client.ipc.VirtualLocationManager;
-import com.lody.virtual.helper.utils.VLog;
-import com.lody.virtual.remote.InstalledAppInfo;
-import com.lody.virtual.remote.vloc.VLocation;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.client.ipc.VirtualLocationManager;
+import com.yy.adam.helper.utils.VLog;
+import com.yy.adam.remote.InstalledAppInfo;
+import com.yy.adam.remote.vloc.VLocation;
 
 import java.util.ArrayList;
 import java.util.List;

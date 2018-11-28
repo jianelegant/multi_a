@@ -1,7 +1,7 @@
 package com.yy.adam.multi.home.repo;
 
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.remote.InstalledAppInfo;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.remote.InstalledAppInfo;
 
 import java.util.HashMap;
 import java.util.Map;

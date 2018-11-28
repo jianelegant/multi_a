@@ -43,3 +43,13 @@
 
 -keep class org.slf4j.**{*;}
 -dontwarn org.slf4j.**
+
+-keep class com.yy.adam.client.**{*;}
+-keep class com.yy.adam.os.**{*;}
+-keep class com.yy.adam.remote.**{*;}
+-keep class com.yy.adam.server.**{*;}
+-keep class com.yy.adam.helper.**{*;}
+-keep class com.yy.adam.helper.**{*;}
+-keep class com.yy.adam.Build { *; }
+-keep class com.yy.adam.DelegateApplication64Bit { *; }
+-keep class com.yy.adam.GmsSupport { *; }

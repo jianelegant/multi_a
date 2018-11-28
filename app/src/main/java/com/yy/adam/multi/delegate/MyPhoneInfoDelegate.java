@@ -1,6 +1,6 @@
 package com.yy.adam.multi.delegate;
 
-import com.lody.virtual.client.hook.delegate.PhoneInfoDelegate;
+import com.yy.adam.client.hook.delegate.PhoneInfoDelegate;
 
 
 /**

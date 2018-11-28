@@ -4,8 +4,8 @@ import android.app.Activity;
 import android.app.Application;
 import android.content.Intent;
 
-import com.lody.virtual.client.hook.delegate.ComponentDelegate;
-import com.lody.virtual.helper.utils.Reflect;
+import com.yy.adam.client.hook.delegate.ComponentDelegate;
+import com.yy.adam.helper.utils.Reflect;
 
 import java.io.File;
 

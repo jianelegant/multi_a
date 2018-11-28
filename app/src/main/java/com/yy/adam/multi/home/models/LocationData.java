@@ -5,8 +5,8 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.graphics.drawable.Drawable;
 
-import com.lody.virtual.remote.InstalledAppInfo;
-import com.lody.virtual.remote.vloc.VLocation;
+import com.yy.adam.remote.InstalledAppInfo;
+import com.yy.adam.remote.vloc.VLocation;
 
 /**
  * @see android.location.Location

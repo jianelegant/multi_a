@@ -2,7 +2,7 @@ package com.yy.adam.multi.home.repo;
 
 import android.content.Context;
 
-import com.lody.virtual.remote.InstallResult;
+import com.yy.adam.remote.InstallResult;
 
 import org.jdeferred.Promise;
 

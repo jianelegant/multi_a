@@ -7,8 +7,8 @@ import android.os.RemoteException;
 import android.widget.ImageView;
 import android.widget.TextView;
 
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.client.ipc.VActivityManager;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.client.ipc.VActivityManager;
 
 import java.util.Locale;
 

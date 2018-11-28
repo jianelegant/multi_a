@@ -14,8 +14,8 @@ import android.view.View;
 import android.widget.TextView;
 import android.widget.Toast;
 
-import com.lody.virtual.helper.utils.VLog;
-import com.lody.virtual.remote.vloc.VLocation;
+import com.yy.adam.helper.utils.VLog;
+import com.yy.adam.remote.vloc.VLocation;
 import com.tencent.lbssearch.TencentSearch;
 import com.tencent.lbssearch.httpresponse.BaseObject;
 import com.tencent.lbssearch.httpresponse.HttpResponseListener;
@@ -153,10 +153,10 @@ public class MarkerActivity extends VActivity implements TencentMap.OnMapClickLi
                 if (mLatLng != null) {
                     /**
                      * TODO edit info
-                     * @see com.lody.virtual.remote.vloc.VLocation#altitude
-                     * @see com.lody.virtual.remote.vloc.VLocation#accuracy
-                     * @see com.lody.virtual.remote.vloc.VLocation#speed
-                     * @see com.lody.virtual.remote.vloc.VLocation#bearing
+                     * @see com.yy.adam.remote.vloc.VLocation#altitude
+                     * @see com.yy.adam.remote.vloc.VLocation#accuracy
+                     * @see com.yy.adam.remote.vloc.VLocation#speed
+                     * @see com.yy.adam.remote.vloc.VLocation#bearing
                      */
                     if (mVLocation == null) {
                         mVLocation = new VLocation();

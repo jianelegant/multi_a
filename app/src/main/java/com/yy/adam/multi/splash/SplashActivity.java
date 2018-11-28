@@ -3,7 +3,7 @@ package com.yy.adam.multi.splash;
 import android.os.Bundle;
 import android.view.WindowManager;
 
-import com.lody.virtual.client.core.VirtualCore;
+import com.yy.adam.client.core.VirtualCore;
 
 import com.yy.adam.multi.R;
 import com.yy.adam.multi.VCommends;

@@ -27,10 +27,10 @@ import android.widget.Toast;
 import com.google.android.gms.ads.AdListener;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.InterstitialAd;
-import com.lody.virtual.GmsSupport;
-import com.lody.virtual.client.stub.ChooseTypeAndAccountActivity;
-import com.lody.virtual.os.VUserInfo;
-import com.lody.virtual.os.VUserManager;
+import com.yy.adam.GmsSupport;
+import com.yy.adam.client.stub.ChooseTypeAndAccountActivity;
+import com.yy.adam.os.VUserInfo;
+import com.yy.adam.os.VUserManager;
 
 import java.lang.reflect.Method;
 import java.util.ArrayList;

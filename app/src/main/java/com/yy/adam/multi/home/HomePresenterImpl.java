@@ -3,12 +3,12 @@ package com.yy.adam.multi.home;
 import android.app.Activity;
 import android.graphics.Bitmap;
 
-import com.lody.virtual.GmsSupport;
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.os.VUserInfo;
-import com.lody.virtual.os.VUserManager;
-import com.lody.virtual.remote.InstallResult;
-import com.lody.virtual.remote.InstalledAppInfo;
+import com.yy.adam.GmsSupport;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.os.VUserInfo;
+import com.yy.adam.os.VUserManager;
+import com.yy.adam.remote.InstallResult;
+import com.yy.adam.remote.InstalledAppInfo;
 
 import java.io.IOException;
 

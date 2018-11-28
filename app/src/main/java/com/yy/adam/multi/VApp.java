@@ -6,8 +6,8 @@ import android.support.multidex.MultiDexApplication;
 
 import com.flurry.android.FlurryAgent;
 import com.google.android.gms.ads.MobileAds;
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.client.stub.VASettings;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.client.stub.VASettings;
 
 import com.yy.adam.multi.delegate.MyAppRequestListener;
 import com.yy.adam.multi.delegate.MyComponentDelegate;

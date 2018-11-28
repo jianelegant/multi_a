@@ -4,8 +4,8 @@ import android.annotation.TargetApi;
 import android.app.ActivityManager;
 import android.os.Build;
 
-import com.lody.virtual.client.hook.delegate.TaskDescriptionDelegate;
-import com.lody.virtual.os.VUserManager;
+import com.yy.adam.client.hook.delegate.TaskDescriptionDelegate;
+import com.yy.adam.os.VUserManager;
 
 
 /**

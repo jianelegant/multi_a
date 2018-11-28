@@ -9,7 +9,7 @@ import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
-import com.lody.virtual.helper.utils.Reflect;
+import com.yy.adam.helper.utils.Reflect;
 
 import java.io.File;
 import java.util.ArrayList;

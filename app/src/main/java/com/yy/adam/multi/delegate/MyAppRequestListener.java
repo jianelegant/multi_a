@@ -3,9 +3,9 @@ package com.yy.adam.multi.delegate;
 import android.content.Context;
 import android.widget.Toast;
 
-import com.lody.virtual.client.core.InstallStrategy;
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.remote.InstallResult;
+import com.yy.adam.client.core.InstallStrategy;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.remote.InstallResult;
 
 import java.io.IOException;
 

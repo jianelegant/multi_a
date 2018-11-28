@@ -5,7 +5,7 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageManager;
 import android.graphics.drawable.Drawable;
 
-import com.lody.virtual.remote.InstalledAppInfo;
+import com.yy.adam.remote.InstalledAppInfo;
 
 /**
  * @author Lody

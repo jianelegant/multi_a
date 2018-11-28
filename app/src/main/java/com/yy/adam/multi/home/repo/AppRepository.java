@@ -5,11 +5,11 @@ import android.content.pm.ApplicationInfo;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
 
-import com.lody.virtual.GmsSupport;
-import com.lody.virtual.client.core.InstallStrategy;
-import com.lody.virtual.client.core.VirtualCore;
-import com.lody.virtual.remote.InstallResult;
-import com.lody.virtual.remote.InstalledAppInfo;
+import com.yy.adam.GmsSupport;
+import com.yy.adam.client.core.InstallStrategy;
+import com.yy.adam.client.core.VirtualCore;
+import com.yy.adam.remote.InstallResult;
+import com.yy.adam.remote.InstalledAppInfo;
 
 import org.jdeferred.Promise;
 
