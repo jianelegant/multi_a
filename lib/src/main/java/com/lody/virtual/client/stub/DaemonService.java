@@ -1,9 +1,13 @@
 package com.lody.virtual.client.stub;
 
+import android.annotation.TargetApi;
 import android.app.Notification;
+import android.app.NotificationChannel;
+import android.app.NotificationManager;
 import android.app.Service;
 import android.content.Context;
 import android.content.Intent;
+import android.os.Build;
 import android.os.IBinder;
 
 
@@ -34,7 +38,7 @@ public class DaemonService extends Service {
 	public void onCreate() {
 		super.onCreate();
         startService(new Intent(this, InnerService.class));
-        startForeground(NOTIFY_ID, new Notification());
+		startForegroundCompat(this);
 
 	}
 
@@ -47,7 +51,7 @@ public class DaemonService extends Service {
 
         @Override
         public int onStartCommand(Intent intent, int flags, int startId) {
-            startForeground(NOTIFY_ID, new Notification());
+			startForegroundCompat(this);
             stopForeground(true);
             stopSelf();
             return super.onStartCommand(intent, flags, startId);
@@ -59,5 +63,23 @@ public class DaemonService extends Service {
 		}
 	}
 
+	private static void startForegroundCompat(Service context) {
+		String channelId = "";
+		Notification.Builder builder;
+		if(Build.VERSION.SDK_INT >= Build.VERSION_CODES.O) {
+			channelId = createNotificationChannel(context, "my_service", "My_Background_Service");
+			builder = new Notification.Builder(context, channelId);
+		} else {
+			builder = new Notification.Builder(context);
+		}
 
+		context.startForeground(NOTIFY_ID, builder.build());
+	}
+
+	@TargetApi(Build.VERSION_CODES.O)
+	private static String createNotificationChannel(Context context, String channelId, String channelName) {
+		NotificationChannel channel = new NotificationChannel(channelId, channelName, NotificationManager.IMPORTANCE_NONE);
+		((NotificationManager)context.getSystemService(Context.NOTIFICATION_SERVICE)).createNotificationChannel(channel);
+		return channel.getId();
+	}
 }
