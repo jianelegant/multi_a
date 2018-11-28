@@ -53,3 +53,13 @@
 -keep class com.yy.adam.Build { *; }
 -keep class com.yy.adam.DelegateApplication64Bit { *; }
 -keep class com.yy.adam.GmsSupport { *; }
+-keep class android.support.** { *; }
+-keep class com.google.** { *; }
+-keep class mirror.** { *; }
+-keep class android.** { *; }
+
+-keepclassmembers class * extends java.lang.Enum {
+    <fields>;
+    public static **[] values();
+    public static ** valueOf(java.lang.String);
+}
