@@ -8,7 +8,7 @@ import com.yy.adam.remote.VDeviceInfo;
 import com.yy.adam.server.interfaces.IDeviceInfoManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VDeviceManager {

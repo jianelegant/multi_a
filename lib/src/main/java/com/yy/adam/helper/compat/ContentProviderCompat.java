@@ -10,7 +10,7 @@ import android.os.RemoteException;
 import android.os.SystemClock;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ContentProviderCompat {
 

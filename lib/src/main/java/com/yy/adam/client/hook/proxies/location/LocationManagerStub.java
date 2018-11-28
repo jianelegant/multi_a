@@ -15,7 +15,7 @@ import java.lang.reflect.Method;
 import mirror.android.location.ILocationManager;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.location.LocationManager
  */
 @LogInvocation(LogInvocation.Condition.ALWAYS)

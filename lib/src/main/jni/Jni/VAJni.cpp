@@ -61,7 +61,7 @@ alias_ref<jclass> nativeEngineClass;
 
 JNIEXPORT jint JNICALL JNI_OnLoad(JavaVM *vm, void *) {
     return initialize(vm, [] {
-        nativeEngineClass = findClassStatic("com/lody/virtual/client/NativeEngine");
+        nativeEngineClass = findClassStatic("com/yy/adam/client/NativeEngine");
         nativeEngineClass->registerNatives({
                         makeNativeMethod("nativeEnableIORedirect",
                                          jni_nativeEnableIORedirect),

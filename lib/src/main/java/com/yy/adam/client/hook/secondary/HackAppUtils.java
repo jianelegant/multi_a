@@ -4,7 +4,7 @@ import com.yy.adam.helper.utils.Reflect;
 import com.yy.adam.helper.utils.ReflectException;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class HackAppUtils {

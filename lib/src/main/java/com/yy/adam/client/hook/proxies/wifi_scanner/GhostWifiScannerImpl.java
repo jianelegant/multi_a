@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import mirror.android.net.wifi.WifiScanner;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class GhostWifiScannerImpl extends IWifiScanner.Stub {

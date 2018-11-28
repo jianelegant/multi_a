@@ -8,7 +8,7 @@ import com.yy.adam.os.VEnvironment;
 import com.yy.adam.remote.VDeviceInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class DeviceInfoPersistenceLayer extends PersistenceLayer {

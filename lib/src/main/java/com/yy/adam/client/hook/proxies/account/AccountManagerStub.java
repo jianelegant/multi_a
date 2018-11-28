@@ -14,7 +14,7 @@ import java.lang.reflect.Method;
 import mirror.android.accounts.IAccountManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class AccountManagerStub extends BinderInvocationProxy {
 

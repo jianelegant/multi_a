@@ -12,7 +12,7 @@ import java.lang.reflect.Method;
 import mirror.libcore.io.Os;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 class MethodProxies {

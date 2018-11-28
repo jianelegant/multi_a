@@ -14,7 +14,7 @@ import java.lang.reflect.Method;
 import mirror.com.android.internal.app.IAppOpsService;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         Fuck the AppOpsService.
  * @see android.app.AppOpsManager

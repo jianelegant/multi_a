@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VCell implements Parcelable {

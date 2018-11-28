@@ -40,7 +40,7 @@ import com.yy.adam.server.vs.VirtualStorageService;
 import mirror.android.app.job.IJobScheduler;
 
 /**
- * @author Lody
+ * @author yy
  */
 public final class BinderProvider extends ContentProvider {
 

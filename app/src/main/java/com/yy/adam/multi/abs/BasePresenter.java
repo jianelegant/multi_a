@@ -1,7 +1,7 @@
 package com.yy.adam.multi.abs;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface BasePresenter {
 	void start();

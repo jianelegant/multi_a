@@ -3,7 +3,7 @@ package com.yy.adam.multi.vs;
 import com.yy.adam.multi.abs.ui.VActivity;
 
 /**
- * @author Lody
+ * @author yy
  *
  *
  *

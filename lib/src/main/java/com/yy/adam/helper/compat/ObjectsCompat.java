@@ -1,7 +1,7 @@
 package com.yy.adam.helper.compat;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ObjectsCompat {

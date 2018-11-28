@@ -32,7 +32,7 @@ import mirror.android.os.ServiceManager;
 import mirror.android.util.Singleton;
 
 /**
- * @author Lody
+ * @author yy
  * @see IActivityManager
  * @see android.app.ActivityManager
  */

@@ -4,7 +4,7 @@ import android.content.ComponentName;
 import android.os.IBinder;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 /* package */ class ActivityRecord {

@@ -29,7 +29,7 @@ import com.yy.adam.multi.home.models.AppInfoLite;
 import com.yy.adam.multi.widgets.DragSelectRecyclerView;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ListAppFragment extends VFragment<ListAppContract.ListAppPresenter> implements ListAppContract.ListAppView {
     private static final String KEY_SELECT_FROM = "key_select_from";

@@ -7,7 +7,7 @@ import mirror.android.app.ApplicationThreadNative;
 import mirror.android.app.IApplicationThreadOreo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ApplicationThreadCompat {

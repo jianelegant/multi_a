@@ -12,7 +12,7 @@ import java.lang.reflect.Modifier;
 import java.lang.reflect.Proxy;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 abstract class StubBinder implements IBinder {

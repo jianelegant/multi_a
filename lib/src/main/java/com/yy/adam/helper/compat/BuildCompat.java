@@ -3,7 +3,7 @@ package com.yy.adam.helper.compat;
 import android.os.Build;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class BuildCompat {

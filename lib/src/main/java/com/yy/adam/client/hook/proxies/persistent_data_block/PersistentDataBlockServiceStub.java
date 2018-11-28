@@ -6,7 +6,7 @@ import com.yy.adam.client.hook.base.ResultStaticMethodProxy;
 import mirror.android.service.persistentdata.IPersistentDataBlockService;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class PersistentDataBlockServiceStub extends BinderInvocationProxy {
 

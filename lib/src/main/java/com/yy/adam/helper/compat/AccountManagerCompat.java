@@ -3,7 +3,7 @@ package com.yy.adam.helper.compat;
 import android.accounts.AccountManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class AccountManagerCompat {

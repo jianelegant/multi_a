@@ -3,7 +3,7 @@ package com.yy.adam.client.stub;
 import java.util.Locale;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VASettings {

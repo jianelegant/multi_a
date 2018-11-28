@@ -20,7 +20,7 @@ import com.yy.adam.multi.home.repo.PackageAppDataStorage;
 import com.yy.adam.multi.widgets.EatBeansView;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class LoadingActivity extends VActivity {

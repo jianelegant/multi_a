@@ -14,7 +14,7 @@ import mirror.android.ddm.DdmHandleAppName;
 import mirror.android.ddm.DdmHandleAppNameJBMR1;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         <p/>
  *         Runtime Environment for App.

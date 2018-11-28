@@ -5,7 +5,7 @@ import java.lang.reflect.Method;
 import com.yy.adam.client.hook.utils.MethodParameterUtils;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ReplaceCallingPkgMethodProxy extends StaticMethodProxy {

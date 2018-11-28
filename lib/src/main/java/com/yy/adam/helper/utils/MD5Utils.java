@@ -10,7 +10,7 @@ import java.security.NoSuchAlgorithmException;
 import android.text.TextUtils;
 
 /**
- * @author Lody
+ * @author yy
  *
  *
  */

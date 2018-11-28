@@ -8,7 +8,7 @@ import com.yy.adam.helper.ipcbus.IPCSingleton;
 import com.yy.adam.server.interfaces.IVirtualStorageService;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VirtualStorageManager {

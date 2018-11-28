@@ -11,7 +11,7 @@ import com.yy.adam.client.hook.base.Inject;
 import mirror.com.android.internal.view.inputmethod.InputMethodManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN)

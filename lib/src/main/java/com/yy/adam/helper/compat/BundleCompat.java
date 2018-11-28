@@ -9,7 +9,7 @@ import mirror.android.os.BaseBundle;
 import mirror.android.os.BundleICS;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class BundleCompat {
     public static IBinder getBinder(Bundle bundle, String key) {

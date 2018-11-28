@@ -1,7 +1,7 @@
 package com.yy.adam.client.hook.providers;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class InternalProviderHook extends ProviderHook {

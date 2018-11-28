@@ -6,7 +6,7 @@ import com.yy.adam.helper.utils.marks.FakeDeviceMark;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 @SuppressWarnings("ALL")
 class MethodProxies {

@@ -8,7 +8,7 @@ import mirror.RefClass;
 import mirror.RefStaticMethod;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IContextHubService {
     public static Class<?> TYPE = RefClass.load(IContextHubService.class, "android.hardware.location.IContextHubService");

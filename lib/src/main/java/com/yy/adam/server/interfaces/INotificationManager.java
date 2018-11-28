@@ -3,7 +3,7 @@ package com.yy.adam.server.interfaces;
 import android.os.RemoteException;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface INotificationManager {
 

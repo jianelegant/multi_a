@@ -8,7 +8,7 @@ import com.yy.adam.remote.InstalledAppInfo;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IAppManager {
 

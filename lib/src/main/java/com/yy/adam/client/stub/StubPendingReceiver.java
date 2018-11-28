@@ -8,7 +8,7 @@ import com.yy.adam.helper.utils.ComponentUtils;
 import com.yy.adam.os.VUserHandle;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class StubPendingReceiver extends BroadcastReceiver {

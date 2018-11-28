@@ -10,7 +10,7 @@ import com.yy.adam.client.hook.base.ReplaceCallingPkgMethodProxy;
 import mirror.android.content.IRestrictionsManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.LOLLIPOP)
 

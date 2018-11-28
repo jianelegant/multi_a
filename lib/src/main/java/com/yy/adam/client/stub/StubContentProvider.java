@@ -14,7 +14,7 @@ import com.yy.adam.client.core.VirtualCore;
 import com.yy.adam.helper.compat.BundleCompat;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class StubContentProvider extends ContentProvider {

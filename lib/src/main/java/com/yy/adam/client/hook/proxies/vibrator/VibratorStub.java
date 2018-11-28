@@ -10,7 +10,7 @@ import java.lang.reflect.Method;
 import mirror.com.android.internal.os.IVibratorService;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.os.Vibrator
  */
 public class VibratorStub extends BinderInvocationProxy {

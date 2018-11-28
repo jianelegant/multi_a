@@ -8,7 +8,7 @@ import mirror.com.android.internal.telephony.IMms;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public class MmsStub extends BinderInvocationProxy {
 

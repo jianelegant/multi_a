@@ -7,7 +7,7 @@ import mirror.RefStaticMethod;
 import mirror.RefStaticObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ActivityManagerOreo {

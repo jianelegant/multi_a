@@ -8,7 +8,7 @@ import mirror.RefInt;
 import mirror.RefObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class NetworkInfo {

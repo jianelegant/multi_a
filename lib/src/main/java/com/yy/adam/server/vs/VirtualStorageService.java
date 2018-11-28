@@ -9,7 +9,7 @@ import com.yy.adam.server.pm.VUserManagerService;
 import java.util.HashMap;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VirtualStorageService implements IVirtualStorageService {

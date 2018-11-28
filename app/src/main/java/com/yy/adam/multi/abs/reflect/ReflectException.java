@@ -1,7 +1,7 @@
 package com.yy.adam.multi.abs.reflect;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ReflectException extends RuntimeException {
 

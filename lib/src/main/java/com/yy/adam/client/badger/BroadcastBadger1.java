@@ -5,7 +5,7 @@ import android.content.Intent;
 import com.yy.adam.remote.BadgerInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 public abstract class BroadcastBadger1 implements IBadger {
 

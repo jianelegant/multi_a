@@ -9,7 +9,7 @@ import com.yy.adam.client.hook.base.ReplaceSpecPkgMethodProxy;
 import mirror.com.android.internal.telephony.ISms;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ISmsStub extends BinderInvocationProxy {

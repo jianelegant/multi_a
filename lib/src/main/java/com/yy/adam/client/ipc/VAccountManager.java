@@ -19,7 +19,7 @@ import com.yy.adam.server.interfaces.IAccountManager;
 import static com.yy.adam.helper.compat.AccountManagerCompat.KEY_ANDROID_PACKAGE_NAME;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VAccountManager {

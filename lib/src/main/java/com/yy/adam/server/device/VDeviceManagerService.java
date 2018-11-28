@@ -14,7 +14,7 @@ import java.util.List;
 import java.util.Random;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VDeviceManagerService implements IDeviceInfoManager {

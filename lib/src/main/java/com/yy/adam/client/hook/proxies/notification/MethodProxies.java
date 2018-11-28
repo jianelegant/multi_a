@@ -13,7 +13,7 @@ import com.yy.adam.helper.utils.VLog;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 @SuppressWarnings("unused")
@@ -117,7 +117,7 @@ class MethodProxies {
     }
 
     /**
-     * @author Lody
+     * @author yy
      */
     /* package */ static class CancelAllNotifications extends MethodProxy {
 

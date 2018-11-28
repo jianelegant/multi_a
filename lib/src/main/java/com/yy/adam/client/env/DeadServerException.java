@@ -1,7 +1,7 @@
 package com.yy.adam.client.env;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class DeadServerException extends RuntimeException {

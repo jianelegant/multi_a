@@ -7,7 +7,7 @@ import android.os.Parcelable;
 import mirror.android.content.pm.PackageInstaller;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class SessionInfo implements Parcelable {

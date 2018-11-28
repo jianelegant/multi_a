@@ -8,7 +8,7 @@ import mirror.RefObject;
 import mirror.com.android.internal.os.UserManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class LauncherApps {

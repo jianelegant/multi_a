@@ -7,7 +7,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 /**
- * @author Lody
+ * @author yy
  */
 public abstract class PlatformInfo {
 

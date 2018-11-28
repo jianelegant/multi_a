@@ -5,7 +5,7 @@ import com.yy.adam.client.core.VirtualCore;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ExternalProviderHook extends ProviderHook {

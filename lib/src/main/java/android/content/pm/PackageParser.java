@@ -7,7 +7,7 @@ import android.os.Bundle;
 import java.util.ArrayList;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class PackageParser {
 

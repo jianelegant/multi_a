@@ -6,7 +6,7 @@ import mirror.MethodParams;
 import mirror.RefStaticMethod;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VMRuntime {

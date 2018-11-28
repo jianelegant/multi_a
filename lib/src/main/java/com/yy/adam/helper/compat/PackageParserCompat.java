@@ -35,7 +35,7 @@ import static android.os.Build.VERSION_CODES.M;
 import static android.os.Build.VERSION_CODES.N;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageParserCompat {

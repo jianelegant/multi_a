@@ -6,7 +6,7 @@ import android.os.Parcelable;
 import com.yy.adam.os.VUserHandle;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class BadgerInfo implements Parcelable {
 

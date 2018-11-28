@@ -5,7 +5,7 @@ import android.os.RemoteException;
 import com.yy.adam.remote.VDeviceInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IDeviceInfoManager {
 

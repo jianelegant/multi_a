@@ -1,7 +1,7 @@
 package com.yy.adam.helper.ipcbus;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IPCSingleton<T> {
 

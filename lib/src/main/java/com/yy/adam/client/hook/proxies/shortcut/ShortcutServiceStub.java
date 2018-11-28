@@ -6,7 +6,7 @@ import com.yy.adam.client.hook.base.ReplaceCallingPkgMethodProxy;
 import mirror.android.content.pm.ILauncherApps;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ShortcutServiceStub extends BinderInvocationProxy {
 

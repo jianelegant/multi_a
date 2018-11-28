@@ -36,7 +36,7 @@ import mirror.android.app.ActivityThread;
 import mirror.android.content.ContentProviderNative;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VActivityManager {
 

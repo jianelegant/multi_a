@@ -3,7 +3,7 @@ package com.yy.adam.multi.widgets;
 import com.yy.adam.multi.VApp;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ViewHelper {
 

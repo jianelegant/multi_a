@@ -22,7 +22,7 @@ import com.yy.adam.multi.abs.ui.VActivity;
 import com.yy.adam.multi.home.adapters.AppPagerAdapter;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ListAppActivity extends VActivity {
 

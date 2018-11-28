@@ -1,7 +1,7 @@
 package com.yy.adam.server.memory;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class MappedMemoryRegion {
 

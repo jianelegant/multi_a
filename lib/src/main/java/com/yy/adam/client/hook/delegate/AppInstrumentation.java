@@ -24,7 +24,7 @@ import com.yy.adam.server.interfaces.IUiCallback;
 import mirror.android.app.ActivityThread;
 
 /**
- * @author Lody
+ * @author yy
  */
 public final class AppInstrumentation extends InstrumentationDelegate implements IInjector {
 

@@ -3,7 +3,7 @@ package com.yy.adam.client.hook.base;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ReplaceSpecPkgMethodProxy extends StaticMethodProxy {

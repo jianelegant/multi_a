@@ -11,7 +11,7 @@ import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class MemoryRegionParser {
     /**

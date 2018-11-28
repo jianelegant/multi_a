@@ -9,7 +9,7 @@ import com.yy.adam.multi.home.models.AppData;
 import com.yy.adam.multi.home.models.AppInfoLite;
 
 /**
- * @author Lody
+ * @author yy
  */
 /* package */ class HomeContract {
 

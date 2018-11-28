@@ -6,7 +6,7 @@ import android.text.TextUtils;
 import com.yy.adam.server.pm.PackageSetting;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ComponentFixer {

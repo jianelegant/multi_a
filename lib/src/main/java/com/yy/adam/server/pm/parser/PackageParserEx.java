@@ -38,7 +38,7 @@ import mirror.android.content.pm.ApplicationInfoL;
 import mirror.android.content.pm.ApplicationInfoN;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageParserEx {

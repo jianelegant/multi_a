@@ -12,7 +12,7 @@ import android.os.IBinder;
 
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class DaemonService extends Service {

@@ -1,7 +1,7 @@
 package com.yy.adam.helper.utils;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class ClassUtils {

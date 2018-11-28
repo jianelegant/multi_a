@@ -83,7 +83,7 @@ import mirror.java.lang.ThreadGroupN;
 import static com.yy.adam.os.VUserHandle.getUserId;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public final class VClientImpl extends IVClient.Stub {

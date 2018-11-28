@@ -6,7 +6,7 @@ import android.graphics.drawable.Drawable;
 import com.yy.adam.multi.R;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class AddAppButton implements AppData {

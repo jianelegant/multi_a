@@ -10,7 +10,7 @@ import com.yy.adam.client.hook.base.ReplaceCallingPkgMethodProxy;
 import mirror.android.media.IMediaRouterService;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.media.MediaRouter
  */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN)

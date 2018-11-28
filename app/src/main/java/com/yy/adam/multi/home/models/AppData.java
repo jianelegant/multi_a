@@ -3,7 +3,7 @@ package com.yy.adam.multi.home.models;
 import android.graphics.drawable.Drawable;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public interface AppData {

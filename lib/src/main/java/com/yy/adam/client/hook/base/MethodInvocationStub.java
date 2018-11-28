@@ -15,7 +15,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         HookHandler uses Java's {@link Proxy} to create a wrapper for existing services.
  *         <p>

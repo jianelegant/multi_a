@@ -13,7 +13,7 @@ import mirror.android.content.ClipboardManager;
 import mirror.android.content.ClipboardManagerOreo;
 
 /**
- * @author Lody
+ * @author yy
  * @see ClipboardManager
  */
 public class ClipBoardStub extends BinderInvocationProxy {

@@ -11,7 +11,7 @@ import mirror.MethodReflectParams;
 import mirror.android.content.res.CompatibilityInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class IApplicationThreadICSMR1 {

@@ -8,7 +8,7 @@ import android.os.Parcelable;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PendingResultData implements Parcelable {

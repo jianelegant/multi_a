@@ -7,7 +7,7 @@ import android.graphics.drawable.BitmapDrawable;
 import android.graphics.drawable.Drawable;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class BitmapUtils {
 

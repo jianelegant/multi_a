@@ -5,7 +5,7 @@ import mirror.RefMethod;
 import mirror.MethodReflectParams;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class IApplicationThreadJBMR1 {

@@ -4,7 +4,7 @@ import java.nio.ByteBuffer;
 import java.nio.ByteOrder;
 
 /**
- * @author Lody
+ * @author yy
  */
 public abstract class MemoryValue {
     

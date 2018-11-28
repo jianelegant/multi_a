@@ -5,7 +5,7 @@ import java.io.RandomAccessFile;
 import java.util.Locale;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ProcessMemory {
 

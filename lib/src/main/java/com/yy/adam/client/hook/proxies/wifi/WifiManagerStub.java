@@ -36,7 +36,7 @@ import mirror.android.net.wifi.IWifiManager;
 import mirror.android.net.wifi.WifiSsid;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.net.wifi.WifiManager
  */
 public class WifiManagerStub extends BinderInvocationProxy {

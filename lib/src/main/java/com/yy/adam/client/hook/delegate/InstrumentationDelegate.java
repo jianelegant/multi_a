@@ -19,7 +19,7 @@ import android.view.KeyEvent;
 import android.view.MotionEvent;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class InstrumentationDelegate extends Instrumentation {
 

@@ -14,7 +14,7 @@ import mirror.android.content.pm.UserInfo;
 import mirror.android.os.IUserManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 public class UserManagerStub extends BinderInvocationProxy {

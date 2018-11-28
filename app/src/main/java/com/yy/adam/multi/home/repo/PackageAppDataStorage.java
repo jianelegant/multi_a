@@ -12,7 +12,7 @@ import com.yy.adam.multi.abs.ui.VUiKit;
 import com.yy.adam.multi.home.models.PackageAppData;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         Cache the loaded PackageAppData.
  */

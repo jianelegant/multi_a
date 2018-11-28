@@ -13,7 +13,7 @@ import java.util.concurrent.Executors;
 import mirror.dalvik.system.VMRuntime;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ArtDexOptimizer {
 

@@ -16,7 +16,7 @@ import com.yy.adam.multi.delegate.MyTaskDescriptionDelegate;
 import jonathanfinerty.once.Once;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VApp extends MultiDexApplication {
 

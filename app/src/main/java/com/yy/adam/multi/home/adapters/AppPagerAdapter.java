@@ -20,7 +20,7 @@ import com.yy.adam.multi.VApp;
 import com.yy.adam.multi.home.ListAppFragment;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class AppPagerAdapter extends FragmentPagerAdapter {
     private List<String> titles = new ArrayList<>();

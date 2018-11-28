@@ -11,7 +11,7 @@ import com.yy.adam.multi.home.models.PackageAppData;
 import com.yy.adam.multi.home.repo.AppRepository;
 
 /**
- * @author Lody
+ * @author yy
  */
 class ListAppPresenterImpl implements ListAppContract.ListAppPresenter {
 

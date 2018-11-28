@@ -11,7 +11,7 @@ import org.jdeferred.android.AndroidDeferredManager;
 import com.yy.adam.multi.abs.BaseView;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VActivity extends AppCompatActivity {
 

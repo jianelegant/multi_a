@@ -3,7 +3,7 @@ package com.yy.adam.helper.utils;
 import com.yy.adam.helper.compat.ObjectsCompat;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class ArrayUtils {

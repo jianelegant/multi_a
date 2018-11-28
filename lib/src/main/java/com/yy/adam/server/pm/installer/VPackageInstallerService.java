@@ -39,7 +39,7 @@ import static com.yy.adam.server.pm.installer.PackageHelper.installStatusToPubli
 import static com.yy.adam.server.pm.installer.PackageHelper.installStatusToString;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.LOLLIPOP)
 public class VPackageInstallerService extends IPackageInstaller.Stub {

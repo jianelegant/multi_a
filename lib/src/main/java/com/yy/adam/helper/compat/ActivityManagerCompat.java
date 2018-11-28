@@ -10,7 +10,7 @@ import mirror.android.app.IActivityManagerL;
 import mirror.android.app.IActivityManagerN;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ActivityManagerCompat {

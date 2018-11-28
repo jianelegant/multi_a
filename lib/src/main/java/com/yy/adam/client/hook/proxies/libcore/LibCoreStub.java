@@ -9,7 +9,7 @@ import mirror.libcore.io.ForwardingOs;
 import mirror.libcore.io.Libcore;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public class LibCoreStub extends MethodInvocationProxy<MethodInvocationStub<Object>> {

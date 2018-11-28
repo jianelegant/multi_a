@@ -16,7 +16,7 @@ import java.lang.reflect.Method;
 import mirror.android.app.ISearchManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 public class SearchManagerStub extends BinderInvocationProxy {

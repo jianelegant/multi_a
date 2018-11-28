@@ -16,7 +16,7 @@ import android.os.Build;
 import mirror.com.android.internal.R_Hide;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public final class ActivityFixer {

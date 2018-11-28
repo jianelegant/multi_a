@@ -8,7 +8,7 @@ import mirror.RefClass;
 import mirror.RefStaticMethod;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.KITKAT)
 public class WifiSsid {

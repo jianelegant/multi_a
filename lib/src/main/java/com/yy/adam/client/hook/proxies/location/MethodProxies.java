@@ -18,7 +18,7 @@ import java.util.List;
 import mirror.android.location.LocationRequestL;
 
 /**
- * @author Lody
+ * @author yy
  */
 @SuppressWarnings("ALL")
 public class MethodProxies {

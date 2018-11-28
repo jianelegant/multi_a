@@ -24,7 +24,7 @@ import mirror.android.app.ActivityThread;
 import mirror.android.app.IActivityManager;
 
 /**
-     * @author Lody
+     * @author yy
      * @see Handler.Callback
      */
     public class HCallbackStub implements Handler.Callback, IInjector {

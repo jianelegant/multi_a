@@ -1,7 +1,7 @@
 package com.yy.adam.server.pm.installer;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageInstallInfo {

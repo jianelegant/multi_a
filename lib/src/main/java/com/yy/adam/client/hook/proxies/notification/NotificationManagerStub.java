@@ -12,7 +12,7 @@ import mirror.android.app.NotificationManager;
 import mirror.android.widget.Toast;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.app.NotificationManager
  * @see android.widget.Toast
  */

@@ -10,7 +10,7 @@ import com.yy.adam.remote.InstallResult;
 import java.io.IOException;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class MyAppRequestListener implements VirtualCore.AppRequestListener {

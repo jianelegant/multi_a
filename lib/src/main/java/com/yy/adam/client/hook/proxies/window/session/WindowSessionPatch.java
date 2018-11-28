@@ -7,7 +7,7 @@ import com.yy.adam.client.hook.base.MethodInvocationStub;
 import com.yy.adam.client.hook.base.ReplaceCallingPkgMethodProxy;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class WindowSessionPatch extends MethodInvocationProxy<MethodInvocationStub<IInterface>> {
 

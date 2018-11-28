@@ -11,7 +11,7 @@ import com.yy.adam.server.interfaces.IJobService;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VJobScheduler {

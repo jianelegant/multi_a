@@ -8,7 +8,7 @@ import android.os.*;
 import com.yy.adam.remote.*;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IActivityManager {
 

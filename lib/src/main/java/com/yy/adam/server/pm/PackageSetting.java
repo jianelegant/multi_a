@@ -7,7 +7,7 @@ import android.util.SparseArray;
 import com.yy.adam.remote.InstalledAppInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageSetting implements Parcelable {

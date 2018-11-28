@@ -9,7 +9,7 @@ import mirror.RefClass;
 import mirror.RefMethod;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ActivityThreadNMR1 {

@@ -11,7 +11,7 @@ import com.yy.adam.helper.utils.VLog;
 import java.io.File;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VEnvironment {

@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 import java.lang.reflect.Modifier;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IPCMethod {
 

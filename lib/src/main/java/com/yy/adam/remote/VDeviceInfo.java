@@ -10,7 +10,7 @@ import java.io.IOException;
 import java.io.RandomAccessFile;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VDeviceInfo implements Parcelable {
 

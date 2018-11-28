@@ -41,7 +41,7 @@ import java.util.concurrent.atomic.AtomicReference;
 import dalvik.system.DexFile;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VAppManagerService implements IAppManager {
 

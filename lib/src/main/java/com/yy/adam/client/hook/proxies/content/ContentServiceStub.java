@@ -5,7 +5,7 @@ import com.yy.adam.client.hook.base.BinderInvocationProxy;
 import mirror.android.content.IContentService;
 
 /**
- * @author Lody
+ * @author yy
  *
  * @see IContentService
  */

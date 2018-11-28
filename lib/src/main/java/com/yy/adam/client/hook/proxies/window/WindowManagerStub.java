@@ -13,7 +13,7 @@ import mirror.android.view.WindowManagerGlobal;
 import mirror.com.android.internal.policy.PhoneWindow;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public class WindowManagerStub extends BinderInvocationProxy {

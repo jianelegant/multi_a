@@ -45,7 +45,7 @@ import java.util.List;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VUserManagerService implements IUserManager {
 

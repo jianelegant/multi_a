@@ -37,7 +37,7 @@ import static android.content.pm.ActivityInfo.LAUNCH_SINGLE_TASK;
 import static android.content.pm.ActivityInfo.LAUNCH_SINGLE_TOP;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 /* package */ class ActivityStack {

@@ -54,7 +54,7 @@ import dalvik.system.DexFile;
 import mirror.android.app.ActivityThread;
 
 /**
- * @author Lody
+ * @author yy
  * @version 3.5
  */
 public final class VirtualCore {

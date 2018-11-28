@@ -11,7 +11,7 @@ import com.yy.adam.client.ipc.VActivityManager;
 import java.net.URISyntaxException;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ShortcutHandleActivity extends Activity {
 

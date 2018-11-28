@@ -14,7 +14,7 @@ import com.yy.adam.multi.home.models.AppInfo;
 import com.yy.adam.multi.home.models.AppInfoLite;
 
 /**
- * @author Lody
+ * @author yy
  * @version 1.0
  */
 public interface AppDataSource {

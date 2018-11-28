@@ -18,7 +18,7 @@ import com.yy.adam.multi.widgets.LabelView;
 import com.yy.adam.multi.widgets.LauncherIconView;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class LaunchpadAdapter extends RecyclerView.Adapter<LaunchpadAdapter.ViewHolder> {
 

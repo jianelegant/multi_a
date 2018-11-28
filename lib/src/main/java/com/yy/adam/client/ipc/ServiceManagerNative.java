@@ -12,7 +12,7 @@ import com.yy.adam.server.ServiceCache;
 import com.yy.adam.server.interfaces.IServiceFetcher;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ServiceManagerNative {
 

@@ -18,7 +18,7 @@ import mirror.android.webkit.IWebViewUpdateService;
 import mirror.android.webkit.WebViewFactory;
 
 /**
- * @author Lody
+ * @author yy
  */
 public final class SpecialComponentList {
 

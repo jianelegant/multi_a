@@ -20,7 +20,7 @@ import com.yy.adam.server.interfaces.IPackageManager;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VPackageManager {
 

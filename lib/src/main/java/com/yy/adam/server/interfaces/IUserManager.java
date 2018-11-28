@@ -8,7 +8,7 @@ import com.yy.adam.os.VUserInfo;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IUserManager {
     VUserInfo createUser(String name, int flags) throws RemoteException;

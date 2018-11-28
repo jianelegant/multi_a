@@ -23,7 +23,7 @@ import java.util.Map;
 import mirror.android.content.IContentProvider;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ProviderHook implements InvocationHandler {

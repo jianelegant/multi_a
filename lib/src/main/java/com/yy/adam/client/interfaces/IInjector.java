@@ -1,7 +1,7 @@
 package com.yy.adam.client.interfaces;
 
 /**
- * @author Lody
+ * @author yy
  *
  * The Objects who implemention this interface will be able to inject other object.
  *

@@ -21,7 +21,7 @@ import mirror.android.app.IServiceConnectionO;
 import mirror.android.app.LoadedApk;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class ServiceConnectionDelegate extends IServiceConnection.Stub {

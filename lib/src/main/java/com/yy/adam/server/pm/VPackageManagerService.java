@@ -43,7 +43,7 @@ import java.util.concurrent.atomic.AtomicReference;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VPackageManagerService implements IPackageManager {
 

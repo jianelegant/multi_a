@@ -9,7 +9,7 @@ import com.yy.adam.server.pm.parser.VPackage;
 import java.util.Arrays;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 class PackagePersistenceLayer extends PersistenceLayer {

@@ -6,7 +6,7 @@ import java.lang.reflect.InvocationHandler;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IPCInvocationBridge implements InvocationHandler {
 

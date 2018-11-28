@@ -8,7 +8,7 @@ import android.util.TypedValue;
 import org.jdeferred.android.AndroidDeferredManager;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         A set of tools for UI.
  */

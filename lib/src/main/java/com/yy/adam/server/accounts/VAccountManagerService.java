@@ -60,7 +60,7 @@ import static android.accounts.AccountManager.ERROR_CODE_BAD_ARGUMENTS;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VAccountManagerService implements IAccountManager {
 

@@ -18,7 +18,7 @@ import mirror.android.app.ServiceStartArgs;
 import mirror.android.content.res.CompatibilityInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class IApplicationThreadCompat {

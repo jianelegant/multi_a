@@ -1,7 +1,7 @@
 package com.yy.adam.client.core;
 
 /**
- * @author Lody
+ * @author yy
  *
  *
  */

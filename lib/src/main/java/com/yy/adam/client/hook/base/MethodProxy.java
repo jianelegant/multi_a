@@ -14,7 +14,7 @@ import com.yy.adam.remote.VDeviceInfo;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 public abstract class MethodProxy {
 

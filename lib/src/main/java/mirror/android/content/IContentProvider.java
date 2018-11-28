@@ -3,7 +3,7 @@ package mirror.android.content;
 import mirror.RefClass;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class IContentProvider {

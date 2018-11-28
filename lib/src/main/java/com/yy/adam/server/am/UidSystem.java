@@ -17,7 +17,7 @@ import java.util.Map;
 import static android.os.Process.FIRST_APPLICATION_UID;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class UidSystem {

@@ -4,7 +4,7 @@ import mirror.RefClass;
 import mirror.RefStaticObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class Libcore {

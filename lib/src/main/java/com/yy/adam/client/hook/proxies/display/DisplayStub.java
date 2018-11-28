@@ -11,7 +11,7 @@ import com.yy.adam.client.hook.base.ReplaceCallingPkgMethodProxy;
 import mirror.android.hardware.display.DisplayManagerGlobal;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.JELLY_BEAN_MR1)
 public class DisplayStub extends MethodInvocationProxy<MethodInvocationStub<IInterface>> {

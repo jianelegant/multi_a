@@ -10,7 +10,7 @@ import com.yy.adam.remote.VParceledListSlice;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IPackageManager {
 

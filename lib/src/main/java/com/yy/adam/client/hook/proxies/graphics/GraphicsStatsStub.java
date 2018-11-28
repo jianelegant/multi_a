@@ -7,7 +7,7 @@ import mirror.android.view.IGraphicsStats;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public class GraphicsStatsStub extends BinderInvocationProxy {
 

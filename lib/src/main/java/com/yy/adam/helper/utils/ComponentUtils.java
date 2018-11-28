@@ -22,7 +22,7 @@ import android.os.Parcelable;
 import static android.content.pm.ActivityInfo.LAUNCH_SINGLE_INSTANCE;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ComponentUtils {
 

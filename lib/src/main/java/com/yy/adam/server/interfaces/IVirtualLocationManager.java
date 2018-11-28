@@ -8,7 +8,7 @@ import com.yy.adam.remote.vloc.VLocation;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IVirtualLocationManager {
 

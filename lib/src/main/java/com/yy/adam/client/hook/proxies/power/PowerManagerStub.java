@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 import mirror.android.os.IPowerManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class PowerManagerStub extends BinderInvocationProxy {
 

@@ -15,7 +15,7 @@ import java.util.Map;
 /**
  * 一个拥有流畅特性(Fluent-API)的反射工具类, 使用起来就像直接调用一样流畅易懂.
  *
- * @author Lody
+ * @author yy
  */
 public class Reflect {
 
@@ -583,7 +583,7 @@ public class Reflect {
     /**
      * 用来表示null的类.
      *
-     * @author Lody
+     * @author yy
      */
     private static class NULL {
     }

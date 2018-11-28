@@ -7,7 +7,7 @@ import com.yy.adam.client.hook.base.ReplaceLastPkgMethodProxy;
 import mirror.com.android.internal.telephony.ISub;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ISubStub extends BinderInvocationProxy {
 

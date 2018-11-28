@@ -4,7 +4,7 @@ import android.os.Parcel;
 import android.os.Parcelable;
 
 /**
- * @author Lody
+ * @author yy
  *
  * Config of virtual storage.
  *

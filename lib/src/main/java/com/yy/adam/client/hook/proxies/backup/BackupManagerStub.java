@@ -8,7 +8,7 @@ import com.yy.adam.client.hook.base.ResultStaticMethodProxy;
 import mirror.android.app.backup.IBackupManager;
 
 /**
- * @author Lody
+ * @author yy
  *
  * @see BackupManager
  */

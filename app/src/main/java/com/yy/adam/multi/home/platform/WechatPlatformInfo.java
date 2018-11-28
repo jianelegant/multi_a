@@ -4,7 +4,7 @@ import android.content.pm.ActivityInfo;
 import android.content.pm.PackageInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class WechatPlatformInfo extends PlatformInfo {

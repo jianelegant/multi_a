@@ -18,7 +18,7 @@ import com.yy.adam.multi.widgets.DragSelectRecyclerViewAdapter;
 import com.yy.adam.multi.widgets.LabelView;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class CloneAppListAdapter extends DragSelectRecyclerViewAdapter<CloneAppListAdapter.ViewHolder> {
 

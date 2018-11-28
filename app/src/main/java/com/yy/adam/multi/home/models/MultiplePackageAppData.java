@@ -6,7 +6,7 @@ import com.yy.adam.client.core.VirtualCore;
 import com.yy.adam.remote.InstalledAppInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class MultiplePackageAppData implements AppData {

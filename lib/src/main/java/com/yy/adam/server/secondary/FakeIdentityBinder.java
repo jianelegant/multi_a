@@ -7,7 +7,7 @@ import android.os.Process;
 import android.os.RemoteException;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class FakeIdentityBinder extends Binder {
 

@@ -8,7 +8,7 @@ import android.support.v4.app.Fragment;
 import com.yy.adam.multi.abs.BasePresenter;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VFragment<T extends BasePresenter> extends Fragment {
 

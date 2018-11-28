@@ -11,7 +11,7 @@ import com.yy.adam.client.env.VirtualGPSSatalines;
 import com.yy.adam.helper.utils.Reflect;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VLocation implements Parcelable {

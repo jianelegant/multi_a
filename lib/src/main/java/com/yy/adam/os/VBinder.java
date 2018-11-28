@@ -5,7 +5,7 @@ import android.os.Binder;
 import com.yy.adam.client.ipc.VActivityManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VBinder {

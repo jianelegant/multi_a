@@ -7,7 +7,7 @@ import mirror.android.content.pm.ParceledListSlice;
 import mirror.android.content.pm.ParceledListSliceJBMR2;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class ParceledListSliceCompat {

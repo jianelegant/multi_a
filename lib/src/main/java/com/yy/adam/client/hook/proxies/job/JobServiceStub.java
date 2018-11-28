@@ -18,7 +18,7 @@ import mirror.android.app.job.IJobScheduler;
 import mirror.android.app.job.JobWorkItem;
 
 /**
- * @author Lody
+ * @author yy
  * @see android.app.job.JobScheduler
  */
 @TargetApi(Build.VERSION_CODES.LOLLIPOP)

@@ -8,7 +8,7 @@ import com.yy.adam.client.hook.base.ReplaceLastPkgMethodProxy;
 import mirror.com.android.internal.telephony.IPhoneSubInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public class PhoneSubInfoStub extends BinderInvocationProxy {

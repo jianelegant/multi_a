@@ -8,7 +8,7 @@ import mirror.RefMethod;
 import mirror.MethodParams;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class IIntentReceiver {

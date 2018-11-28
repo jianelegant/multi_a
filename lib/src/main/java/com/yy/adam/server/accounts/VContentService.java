@@ -30,7 +30,7 @@ import mirror.android.content.SyncAdapterTypeN;
 import mirror.com.android.internal.R_Hide;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VContentService {

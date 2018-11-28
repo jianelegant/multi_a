@@ -1,7 +1,7 @@
 package com.yy.adam.client.stub;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public abstract class StubDialog extends StubActivity {

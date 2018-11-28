@@ -23,7 +23,7 @@ import com.yy.adam.multi.home.repo.PackageAppDataStorage;
 import jonathanfinerty.once.Once;
 
 /**
- * @author Lody
+ * @author yy
  */
 class HomePresenterImpl implements HomeContract.HomePresenter {
 

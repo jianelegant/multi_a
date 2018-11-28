@@ -13,7 +13,7 @@ import com.yy.adam.helper.compat.BuildCompat;
 import mirror.android.app.ActivityThread;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public final class PackageManagerStub extends MethodInvocationProxy<MethodInvocationStub<IInterface>> {

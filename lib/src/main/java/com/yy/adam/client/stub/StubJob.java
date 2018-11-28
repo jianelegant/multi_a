@@ -27,7 +27,7 @@ import static com.yy.adam.server.job.VJobSchedulerService.JobId;
 import static com.yy.adam.server.job.VJobSchedulerService.get;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         This service running on the Server process.
  */

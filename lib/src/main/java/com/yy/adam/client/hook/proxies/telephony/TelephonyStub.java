@@ -10,7 +10,7 @@ import com.yy.adam.client.hook.base.ReplaceLastPkgMethodProxy;
 import mirror.com.android.internal.telephony.ITelephony;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public class TelephonyStub extends BinderInvocationProxy {

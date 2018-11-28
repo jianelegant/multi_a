@@ -21,7 +21,7 @@ import android.os.Parcelable;
 import java.util.ArrayList;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VPackage implements Parcelable {

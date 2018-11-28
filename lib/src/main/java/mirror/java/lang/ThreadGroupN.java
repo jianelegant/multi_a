@@ -5,7 +5,7 @@ import mirror.RefClass;
 import mirror.RefObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ThreadGroupN {
     public static Class<?> Class = RefClass.load(ThreadGroupN.class, java.lang.ThreadGroup.class);

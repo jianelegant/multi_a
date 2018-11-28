@@ -15,7 +15,7 @@ import java.util.Locale;
 import mirror.android.location.LocationManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class MockLocationHelper {
 

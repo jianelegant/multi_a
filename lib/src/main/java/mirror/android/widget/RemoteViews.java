@@ -8,7 +8,7 @@ import mirror.RefClass;
 import mirror.RefObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class RemoteViews {

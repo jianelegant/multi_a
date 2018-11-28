@@ -13,7 +13,7 @@ import java.lang.reflect.Method;
 import mirror.android.app.IAlarmManager;
 
 /**
- * @author Lody
+ * @author yy
  *
  * @see android.app.AlarmManager
  */

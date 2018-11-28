@@ -41,7 +41,7 @@ import mirror.android.rms.resource.ReceiverResourceN;
 import static android.content.Intent.FLAG_RECEIVER_REGISTERED_ONLY;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class BroadcastSystem {

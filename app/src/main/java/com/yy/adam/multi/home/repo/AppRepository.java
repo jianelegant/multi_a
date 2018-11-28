@@ -28,7 +28,7 @@ import com.yy.adam.multi.home.models.MultiplePackageAppData;
 import com.yy.adam.multi.home.models.PackageAppData;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class AppRepository implements AppDataSource {
 

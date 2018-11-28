@@ -12,7 +12,7 @@ import com.yy.adam.server.interfaces.IVirtualLocationManager;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class VirtualLocationManager {

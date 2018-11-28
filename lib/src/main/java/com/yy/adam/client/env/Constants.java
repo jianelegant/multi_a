@@ -6,7 +6,7 @@ import android.content.Intent;
 import com.yy.adam.client.stub.ShortcutHandleActivity;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class Constants {

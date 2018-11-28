@@ -8,7 +8,7 @@ import com.yy.adam.client.hook.base.ResultStaticMethodProxy;
 import mirror.com.android.internal.os.IDropBoxManagerService;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class DropBoxManagerStub extends BinderInvocationProxy {
 	public DropBoxManagerStub() {

@@ -7,7 +7,7 @@ import android.os.RemoteException;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IJobService {
 

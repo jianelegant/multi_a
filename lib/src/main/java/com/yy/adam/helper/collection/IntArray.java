@@ -18,7 +18,7 @@ package com.yy.adam.helper.collection;
 import java.util.Arrays;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IntArray {
     private static final int[] EMPTY_ARRAY = new int[0];

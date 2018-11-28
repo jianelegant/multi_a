@@ -47,7 +47,7 @@ import java.util.Set;
 import mirror.android.content.pm.ParceledListSlice;
 
 /**
- * @author Lody
+ * @author yy
  */
 @SuppressWarnings("unused")
 class MethodProxies {
@@ -142,7 +142,7 @@ class MethodProxies {
     }
 
     /**
-     * @author Lody
+     * @author yy
      *         <p>
      *         public ActivityInfo getServiceInfo(ComponentName className, int
      *         flags, int userId)
@@ -202,7 +202,7 @@ class MethodProxies {
     }
 
     /**
-     * @author Lody
+     * @author yy
      *         <p>
      *         <p>
      *         public ActivityInfo getActivityInfo(ComponentName className, int

@@ -8,7 +8,7 @@ import com.yy.adam.client.hook.proxies.window.session.WindowSessionPatch;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 class MethodProxies {

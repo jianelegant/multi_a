@@ -83,7 +83,7 @@ import mirror.android.content.pm.UserInfo;
 import static com.yy.adam.client.stub.VASettings.INTERCEPT_BACK_HOME;
 
 /**
- * @author Lody
+ * @author yy
  */
 @SuppressWarnings("unused")
 class MethodProxies {

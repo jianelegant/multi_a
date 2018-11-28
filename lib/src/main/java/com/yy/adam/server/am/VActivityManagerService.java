@@ -72,7 +72,7 @@ import static com.yy.adam.os.VBinder.getCallingPid;
 import static com.yy.adam.os.VUserHandle.getUserId;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VActivityManagerService implements IActivityManager {
 

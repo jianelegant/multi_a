@@ -8,7 +8,7 @@ import com.yy.adam.helper.utils.ArrayUtils;
 import java.lang.reflect.Method;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 class MethodProxies {

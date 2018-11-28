@@ -1,7 +1,7 @@
 package com.yy.adam.client.hook.base;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class StaticMethodProxy extends MethodProxy {

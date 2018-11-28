@@ -33,7 +33,7 @@ import static android.system.OsConstants.O_RDONLY;
 import static android.system.OsConstants.O_WRONLY;
 
 /**
- * @author Lody
+ * @author yy
  */
 @TargetApi(Build.VERSION_CODES.LOLLIPOP)
 public class PackageInstallerSession extends IPackageInstallerSession.Stub {

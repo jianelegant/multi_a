@@ -12,7 +12,7 @@ import java.util.Collections;
 import java.util.List;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PrivilegeAppOptimizer {

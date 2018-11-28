@@ -6,7 +6,7 @@ import android.util.Log;
 import java.util.Set;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class VLog {

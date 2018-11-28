@@ -7,7 +7,7 @@ import com.yy.adam.multi.abs.BaseView;
 import com.yy.adam.multi.home.models.AppInfo;
 
 /**
- * @author Lody
+ * @author yy
  * @version 1.0
  */
 /*package*/ class ListAppContract {

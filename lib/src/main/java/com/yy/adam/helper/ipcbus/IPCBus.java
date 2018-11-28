@@ -6,7 +6,7 @@ import android.os.IBinder;
 import java.lang.reflect.Proxy;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class IPCBus {
 

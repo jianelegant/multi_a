@@ -11,7 +11,7 @@ import com.yy.adam.helper.compat.ContentProviderCompat;
 import java.io.Serializable;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public class ProviderCall {

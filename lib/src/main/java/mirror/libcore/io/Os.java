@@ -3,7 +3,7 @@ package mirror.libcore.io;
 import mirror.RefClass;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class Os {

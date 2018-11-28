@@ -1,7 +1,7 @@
 package com.yy.adam.multi;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class VCommends {
 

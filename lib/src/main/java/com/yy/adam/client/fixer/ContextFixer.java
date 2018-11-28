@@ -18,7 +18,7 @@ import mirror.android.app.ContextImplKitkat;
 import mirror.android.content.ContentResolverJBMR2;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class ContextFixer {
 

@@ -8,7 +8,7 @@ import com.yy.adam.client.hook.base.ReplaceLastPkgMethodProxy;
 import mirror.android.media.IAudioService;
 
 /**
- * @author Lody
+ * @author yy
  *
  * @see android.media.AudioManager
  */

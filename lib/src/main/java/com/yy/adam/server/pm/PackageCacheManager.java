@@ -5,7 +5,7 @@ import com.yy.adam.server.pm.parser.PackageParserEx;
 import com.yy.adam.server.pm.parser.VPackage;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageCacheManager {

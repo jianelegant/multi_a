@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.content.Context;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface BaseView<T> {
     Activity getActivity();

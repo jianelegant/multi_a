@@ -10,7 +10,7 @@ import com.yy.adam.client.hook.base.ResultStaticMethodProxy;
 import mirror.com.android.internal.appwidget.IAppWidgetService;
 
 /**
- * @author Lody
+ * @author yy
  *
  * @see android.appwidget.AppWidgetManager
  */

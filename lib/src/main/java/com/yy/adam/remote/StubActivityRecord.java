@@ -5,7 +5,7 @@ import android.content.Intent;
 import android.content.pm.ActivityInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class StubActivityRecord  {

@@ -10,7 +10,7 @@ import java.util.Map;
 
 
 /**
- * @author Lody
+ * @author yy
  */
 public final class PendingIntents {
 

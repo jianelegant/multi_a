@@ -10,7 +10,7 @@ import mirror.RefObject;
 import mirror.RefStaticObject;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class Settings {
     public static Class<?> TYPE = RefClass.load(Settings.class, android.provider.Settings.class);

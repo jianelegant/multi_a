@@ -14,7 +14,7 @@ import com.yy.adam.os.VUserHandle;
 import com.yy.adam.remote.StubActivityRecord;
 
 /**
- * @author Lody
+ * @author yy
  *
  */
 public abstract class StubActivity extends Activity {

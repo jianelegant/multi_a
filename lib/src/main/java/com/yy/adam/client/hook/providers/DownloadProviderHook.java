@@ -9,7 +9,7 @@ import com.yy.adam.client.hook.base.MethodBox;
 import java.lang.reflect.InvocationTargetException;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 class DownloadProviderHook extends ExternalProviderHook {

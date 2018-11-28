@@ -8,7 +8,7 @@ import android.graphics.drawable.Drawable;
 import com.yy.adam.remote.InstalledAppInfo;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class PackageAppData implements AppData {
 

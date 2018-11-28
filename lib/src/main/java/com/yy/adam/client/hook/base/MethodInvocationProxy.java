@@ -10,7 +10,7 @@ import java.lang.reflect.Constructor;
 import java.lang.reflect.Modifier;
 
 /**
- * @author Lody
+ * @author yy
  *         <p>
  *         This class is responsible with:
  *         - Instantiating a {@link MethodInvocationStub.HookInvocationHandler} on {@link #getInvocationStub()} ()}

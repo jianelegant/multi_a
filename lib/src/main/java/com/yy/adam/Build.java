@@ -4,7 +4,7 @@ package com.yy.adam;
  *
  * Version info of VirtualApp project.
  *
- * @author Lody
+ * @author yy
  *
  */
 

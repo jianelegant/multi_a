@@ -12,7 +12,7 @@ import com.yy.adam.os.VEnvironment;
 import java.io.File;
 
 /**
- * @author Lody
+ * @author yy
  */
 public final class InstalledAppInfo implements Parcelable {
 

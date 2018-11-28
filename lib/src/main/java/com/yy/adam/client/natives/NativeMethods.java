@@ -9,7 +9,7 @@ import java.lang.reflect.Method;
 import dalvik.system.DexFile;
 
 /**
- * @author Lody
+ * @author yy
  */
 public class NativeMethods {
 

@@ -8,7 +8,7 @@ import com.yy.adam.client.ipc.VActivityManager;
 import com.yy.adam.remote.StubActivityRecord;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class StubPendingActivity extends Activity {

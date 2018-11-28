@@ -7,7 +7,7 @@ import android.os.Bundle;
 import android.os.RemoteException;
 
 /**
- * @author Lody
+ * @author yy
  */
 public interface IAccountManager {
 

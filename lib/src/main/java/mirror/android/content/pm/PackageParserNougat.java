@@ -5,7 +5,7 @@ import mirror.RefClass;
 import mirror.RefStaticMethod;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public class PackageParserNougat {

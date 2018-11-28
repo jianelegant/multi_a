@@ -3,7 +3,7 @@ package com.yy.adam.helper.utils;
 import android.os.Handler;
 
 /**
- * @author Lody
+ * @author yy
  */
 
 public abstract class SchedulerTask implements Runnable {

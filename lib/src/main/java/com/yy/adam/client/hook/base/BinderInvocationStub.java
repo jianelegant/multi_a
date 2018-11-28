@@ -18,7 +18,7 @@ import mirror.RefStaticMethod;
 import mirror.android.os.ServiceManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @SuppressWarnings("unchecked")
 public class BinderInvocationStub extends MethodInvocationStub<IInterface> implements IBinder {

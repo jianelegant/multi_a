@@ -11,7 +11,7 @@ import mirror.android.os.mount.IMountService;
 import mirror.android.os.storage.IStorageManager;
 
 /**
- * @author Lody
+ * @author yy
  */
 @Inject(MethodProxies.class)
 public class MountServiceStub extends BinderInvocationProxy {
