@@ -34,3 +34,12 @@
 #导航
 -keep class com.amap.api.navi.**{*;}
 -keep class com.autonavi.**{*;}
+
+-keep class com.tencent.**{*;}
+-dontwarn com.tencent.**
+
+-keep class org.eclipse.**{*;}
+-dontwarn org.eclipse.**
+
+-keep class org.slf4j.**{*;}
+-dontwarn org.slf4j.**
